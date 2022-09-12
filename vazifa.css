@@ -1,0 +1,149 @@
+* {
+	box-sizing: border-box;
+}
+
+.sarlavha {
+	text-align: center;
+}
+
+.qotor1 {
+	background: lightgrey;
+	width: 980px;
+	padding: 30px;
+    margin: 0 auto 30px;
+    text-align: center;
+    font-size: 0px;
+}
+
+.container {
+	background: blue;
+	display: inline-block;
+	font-size: 50px;
+    font-weight: bold;
+    color: white;
+    width: 445px;
+    margin-right: 30px;
+    padding: 100px 0px;
+    text-align: center;
+}
+
+.qotor2 {
+ 	background: lightgrey;
+ 	width: 980px;
+ 	padding: 30px;
+ 	margin: 0 auto 30px;
+ 	text-align: center;
+ 	font-size: 0;
+}
+.box {
+	background: blue;
+	display: inline-block;
+	font-size: 50px;
+    font-weight:bold;
+    color: white;
+    width: 280px;
+    margin-right: 30px;
+	padding: 100px 0px;
+    text-align: center;
+}
+
+.qotor3 {
+	background: lightgrey;
+ 	width: 980px;
+ 	padding: 30px;
+ 	margin: 0 auto 30px;
+	text-align: center;
+ 	font-size: 0;
+}
+
+.kichikmatn {
+	background: blue;
+	display: inline-block;
+	font-size: 50px;
+    font-weight: bold;
+    color: white;
+	padding: 50px 40px;
+    margin-right: 30px;
+    padding: 100px 0;
+    width: 220px;
+    text-align: center;
+}
+
+.kattamatn {
+	background: blue;
+	display: inline-block;
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+	width: 400px;
+	margin-right: 30px;
+	padding: 100px 0px;
+	text-align: center;
+}
+
+.qotor4 {
+	background: lightgrey;
+ 	width: 980px;
+ 	padding: 30px;
+ 	margin: 0 auto 30px;
+ 	text-align: center;
+ 	font-size: 0;
+}
+
+.birxilmatn {
+	background: blue;
+	display: inline-block;
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+	width: 200px;
+	margin-right: 30px;
+	padding: 100px 0px;
+	text-align: center;
+}
+
+.qotor5 {
+	background: lightgrey;
+ 	width: 980px;
+ 	padding: 30px;
+ 	margin: 0 auto 30px;
+ 	text-align: center;
+ 	font-size: 0;
+}
+
+.uzunmatn {
+	background: blue;
+	display: inline-block;
+	font-size: 50px;
+	font-weight: bold;
+	color:white;
+	width: 600px;
+	margin-right: 30px;
+	padding: 100px 0px;
+	text-align: center;
+}
+
+.kaltamatn {
+	background: blue;
+	display: inline-block;
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+	width: 280px;
+	margin-right: 30px;
+	padding:100px 0px;
+	text-align: center;
+}
+
+.songiqotor {
+	background: lightgrey;
+ 	width: 980px;
+ 	padding: 30px;
+ 	margin: 0 auto 30px;
+ 	text-align: center;
+ 	font-size: 0;
+}
+
+.last {
+	margin-right: 0px;
+}
